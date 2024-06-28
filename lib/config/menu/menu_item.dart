@@ -23,5 +23,30 @@ const appMenuItems = <MenuItem>[
       title: 'Tarjetas',
       subTiltle: 'Un contenedor estilizado',
       link: '/cards',
-      icon: Icons.add_card_rounded)
+      icon: Icons.add_card_outlined),
+  MenuItem(
+      title: 'Progress Indicator',
+      subTiltle: 'Progresos generales y controlados',
+      link: '/progress',
+      icon: Icons.refresh_outlined),
+  MenuItem(
+      title: 'Tarjetas',
+      subTiltle: 'Un contenedor estilizado',
+      link: '/cards',
+      icon: Icons.add_card_rounded),
+  MenuItem(
+      title: 'Tarjetas',
+      subTiltle: 'Un contenedor estilizado',
+      link: '/cards',
+      icon: Icons.add_card_rounded),
+  MenuItem(
+      title: 'Tarjetas',
+      subTiltle: 'Un contenedor estilizado',
+      link: '/cards',
+      icon: Icons.add_card_rounded),
+  MenuItem(
+      title: 'Tarjetas',
+      subTiltle: 'Un contenedor estilizado',
+      link: '/cards',
+      icon: Icons.add_card_rounded),
 ];
